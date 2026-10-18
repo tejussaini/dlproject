@@ -2,6 +2,6 @@ numpy
 pandas 
 tensorboard
 scikit-learn
-tensorflow==2.21.0
+tensorflow
 matplotlib
 streamlt
